@@ -8,3 +8,9 @@ body {
     background-color: dimgrey;
     color: white;
 }
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
