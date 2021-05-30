@@ -1,16 +1,18 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: content-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
 }
 
 body {
-    background-color: dimgrey;
-    color: white;
+  background-color: dimgrey;
+  color: white;
 }
 
 header {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
